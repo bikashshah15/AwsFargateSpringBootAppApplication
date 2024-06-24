@@ -1,7 +1,7 @@
 {
   "family": "springboot-app-task-definition4",
   "networkMode": "awsvpc",
-  "executionRoleArn": "arn:aws:iam::232796987314:user/Bikash",
+  "executionRoleArn": "arn:aws:iam::232796987314:role/ecsTaskExecutionRole",
   "containerDefinitions": [
     {
       "name": "springboot-application3",
