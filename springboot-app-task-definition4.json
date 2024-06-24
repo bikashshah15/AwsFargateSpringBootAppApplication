@@ -1,5 +1,5 @@
 {
-  "family": "springboot-app-task-definition",
+  "family": "springboot-app-task-definition4",
   "networkMode": "awsvpc",
   "executionRoleArn": "arn:aws:iam::232796987314:user/Bikash",
   "containerDefinitions": [
